@@ -8,7 +8,13 @@
 
 ## Automobile Company Database Project
 
-## - Project 1 
+## - Project 1  (19/20)
 
 - ER Diagram
 - Relational Schema Diagram
+
+## - Project 2 (20/20)
+
+- Decomposed Logical Schema Diagram
+- Physical Schema Diagram
+- CRUD Program
