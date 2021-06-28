@@ -8,7 +8,7 @@
 
 ## Automobile Company Database Project
 
-## - Project 1  (19/20)
+## - Project 1  (9/10)
 
 - ER Diagram
 - Relational Schema Diagram
